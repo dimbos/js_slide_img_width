@@ -1,0 +1,80 @@
+.slider{
+    width: 300px;
+    position: relative;
+    border: 4px solid #caccd1;
+    margin: 100px auto;
+    overflow: hidden;
+}
+
+
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 40px 0;
+    color: #767676;
+}
+
+.line{
+    position: relative;
+    height: 250px;
+    overflow: hidden;
+    left: 0;
+    transition: all ease 1s;
+}
+
+.slide{
+    height: 250px;
+    float: left;
+}
+
+.w280px{
+    width: 280px;
+}
+
+.w250px{
+    width: 250px;
+}
+
+.w168px{
+    width: 168px;
+}
+
+.w150px{
+    width: 150px;
+}
+
+.w80px{
+    width: 80px;
+}
+
+.w52px{
+    width: 52px;
+}
+
+.red{
+    background-color: #fd5c63;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.cyan{
+    background-color: cyan;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.pink{
+    background: pink;
+}
+
+
